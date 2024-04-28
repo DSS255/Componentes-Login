@@ -1,27 +1,24 @@
-/* Reset CSS */
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
   }
   
-  /* Estilos da página */
   body {
-    background-color: #f0f0f0; /* Cor de fundo clean */
+    background-color: #f0f0f0;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Centraliza verticalmente na tela */
+    height: 100vh;
   }
   
-  /* Estilos dos componentes */
   .componente {
     max-width: 300px;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #fff; /* Fundo branco para os componentes */
+    background-color: #fff; 
   }
   
   .componente input {
@@ -46,7 +43,6 @@
     background-color: #0056b3;
   }
   
-  /* Estilo para o link */
   .componente label {
     display: block;
     margin-top: 10px;
@@ -59,7 +55,7 @@
     text-decoration: underline;
   }
   input:focus {
-    background-color: #f0f0f0; /* Cor de fundo quando o input está em foco */
+    background-color: #f0f0f0;
   }
 
   

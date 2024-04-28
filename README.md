@@ -6,7 +6,7 @@ Este é um projeto simples que demonstra como alternar entre dois componentes Vu
 
 1. Clone este repositório:
    
-git clone https://github.com/DSS255/Componentes-Login.git
+   git clone https://github.com/DSS255/Componentes-Login.git
 
 2. Abra o arquivo `index.html` em seu navegador da web.
 
@@ -28,6 +28,3 @@ git clone https://github.com/DSS255/Componentes-Login.git
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões ou correções por meio de pull requests.
 
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).

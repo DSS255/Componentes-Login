@@ -2,7 +2,7 @@
 
 Este é um projeto simples que demonstra como alternar entre dois componentes Vue em uma aplicação web.
 
-## Como usar
+## Como usar :computer:
 
 1. Clone este repositório:
    
@@ -12,19 +12,19 @@ Este é um projeto simples que demonstra como alternar entre dois componentes Vu
 
 3. Você verá dois componentes alternados na tela. Clique no botão "Cadastre-se" para alternar entre eles.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas :computer:
 
 - Vue.js
 - HTML
 - CSS
 
-## Estrutura do Projeto
+## Estrutura do Projeto :memo:
 
 - `index.html`: Arquivo principal da aplicação.
 - `style.css`: Folha de estilo para estilizar os componentes.
 - `index.js`: Arquivo JavaScript para a lógica da aplicação.
 
-## Contribuição
+## Contribuição :warning:
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões ou correções por meio de pull requests.
 

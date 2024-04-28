@@ -1,4 +1,4 @@
-# Alternância de Componentes Vue:rocket:
+# Alternância de Componentes Vue :rocket:
 
 Este é um projeto simples que demonstra como alternar entre dois componentes Vue em uma aplicação web.
 

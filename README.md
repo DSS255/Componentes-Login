@@ -2,6 +2,9 @@
 
 Este é um projeto simples que demonstra como alternar entre dois componentes Vue em uma aplicação web.
 
+## Link do site 📺
+https://componentes-login.netlify.app/
+
 ## Como usar 📜
 
 1. Clone este repositório:
